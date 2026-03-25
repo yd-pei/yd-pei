@@ -11,5 +11,5 @@ I'm Yiding Pei — a CS grad student passionate about making large language mode
 - LLM Infrastructure
 
 ### 🔗 Links
-- LinkedIn *(coming soon)*
+- [LinkedIn](https://www.linkedin.com/in/yiding-pei-92067b386)
 - Google Scholar *(coming soon)*
