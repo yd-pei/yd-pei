@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**yd-pei/yd-pei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yiding Pei — a CS grad student passionate about making large language models safer and more efficient.
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **Xi'an Jiaotong University (XJTU)** — B.E. in Computer Science and Technology, 2019–2023
+- **The George Washington University (GWU)** — M.S. in Computer Science, 2024–2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+- LLM Alignment
+- LLM Infrastructure
+
+### 🔗 Links
+- LinkedIn *(coming soon)*
+- Google Scholar *(coming soon)*
