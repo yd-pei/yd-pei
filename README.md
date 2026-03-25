@@ -6,7 +6,7 @@ I'm Yiding Pei — a CS grad student passionate about making large language mode
 - **Xi'an Jiaotong University (XJTU)** — B.E. in Computer Science and Technology, 2019–2023
 - **The George Washington University (GWU)** — M.S. in Computer Science, 2024–2026
 
-### 🔬 Research Interests
+### 🔬 Interests
 - LLM Alignment
 - LLM Infrastructure
 
